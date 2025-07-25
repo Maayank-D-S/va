@@ -1,0 +1,8 @@
+Flask
+livekit
+livekit-api
+livekit-plugins-deepgram
+livekit-plugins-cartesia
+openai
+requests
+python-dotenv
